@@ -6,6 +6,19 @@ alternative to avoid such problem. As an AI Engineer you must give Solution to t
 
 
 A) How will you achieve this in AI?
+Answer:
+Machine Learning
+
 B) Find out the 3 -Stage of Problem Identification
+Answer:
+1. Machine Learning - because of the csv file
+2. Supervised Learning - tracking the csv file
+3. Classification - because of resigned, not resigned
+
 C) Name the project
+Answer:
+Employee management project
+
 D) Create the dummy Dataset.
+Answer:
+Attached Employee-Dataset.png
